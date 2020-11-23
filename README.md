@@ -2,7 +2,7 @@
 
 i18N Trait is designed to help you handle a multi-language database in PHP using [Eloquent](https://laravel.com/docs/8.x/eloquent#introduction) Models together with the [Symfony](https://symfony.com/) framework.
 
-This trait makes it easier for you to save, update and fetch data from your database, as you can use Eloquent's methods and let the trait handle which translation it should update.
+This trait makes it easier for you to save, update and fetch data from your database, as you can use Eloquent's methods and let the trait handle which translation it should update / fetch.
 
 ## Installation
 
